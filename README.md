@@ -27,6 +27,7 @@ How it works:
 - If it's not equal, it'll print and update the last modified date;
 
 
+---------
 PS: You've to install the service using the following command:
 
 C:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil.exe "<path>\autoprint.exe"
