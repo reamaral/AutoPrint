@@ -22,6 +22,6 @@ call "C:\Program Files (x86)\Foxit Software\Foxit PDF Reader\FoxitPDFReader.exe"
 
 
 How it works:
-- The service will be running checking a PDF's modified datetime on a specified folder;
-- It'll check if the file's last modified datetime is different from the last printed file datetime;
+- The service will be running checking a PDF's WriteTime on a specified folder;
+- It'll check if the file's last WriteTime registered is different from the last printed file Writetime;
 - If it's not equal, it'll print and update the last modified date;
