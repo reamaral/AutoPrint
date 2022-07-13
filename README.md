@@ -25,3 +25,10 @@ How it works:
 - The service will be running checking a PDF's WriteTime on a specified folder;
 - It'll check if the file's last WriteTime registered is different from the last printed file Writetime;
 - If it's not equal, it'll print and update the last modified date;
+
+
+PS: You've to install the service using the following command:
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil.exe "<path>\autoprint.exe"
+
+If needed to, you can set the service as "auto"
