@@ -1,0 +1,10 @@
+C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe.config
+C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.pdb
+C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csproj.AssemblyReference.cache
+C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csproj.SuggestedBindingRedirects.cache
+C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\obj\Debug\AutoPrint.ProjectInstaller.resources
+C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csproj.GenerateResource.cache
+C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\obj\Debug\AutoPrint.csproj.CoreCompileInputs.cache
+C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\obj\Debug\AutoPrint.exe
+C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\obj\Debug\AutoPrint.pdb

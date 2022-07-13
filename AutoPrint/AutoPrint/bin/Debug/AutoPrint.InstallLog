@@ -1,0 +1,846 @@
+﻿Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Removendo a origem do EventLog AutoPrint.
+Aviso: a origem AutoPrint não está registrada no computador local.
+Serviço AutoPrint está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Tentativa de parar o serviço AutoPrint.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\AutoPrint.exe
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Criando a origem de EventLog AutoPrint no log Application...
+Revertendo o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Restaurando o log de eventos para o estado anterior da origem AutoPrint.
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Aviso: a origem AutoPrint não está registrada no computador local.
+Serviço AutoPrint está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Aviso: a origem AutoPrint não está registrada no computador local.
+Serviço AutoPrint está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Criando a origem de EventLog AutoPrint no log Application...
+Revertendo o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Restaurando o log de eventos para o estado anterior da origem AutoPrint.
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Aviso: a origem AutoPrint não está registrada no computador local.
+Serviço AutoPrint está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Tentativa de parar o serviço AutoPrint.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Tentativa de parar o serviço AutoPrint.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Tentativa de parar o serviço AutoPrint.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Aviso: a origem AutoPrint não está registrada no computador local.
+Serviço AutoPrint está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Criando a origem de EventLog AutoPrint no log Application...
+Revertendo o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Restaurando o log de eventos para o estado anterior da origem AutoPrint.
+Desinstalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Removendo a origem do EventLog AutoPrint.
+Serviço AutoPrint está sendo removido do sistema...
+Serviço AutoPrint foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
+Instalando o serviço AutoPrint...
+Serviço AutoPrint foi instalado com êxito.
+Criando a origem de EventLog AutoPrint no log Application...
+Confirmando o assembly 'C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.InstallLog
+   assemblypath = C:\Users\reamaral\source\repos\AutoPrint\AutoPrint\bin\Debug\autoprint.exe
