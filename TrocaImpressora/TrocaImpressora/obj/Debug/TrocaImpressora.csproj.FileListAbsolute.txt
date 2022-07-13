@@ -1,0 +1,11 @@
+C:\Users\reamaral\source\repos\TrocaImpressora\TrocaImpressora\bin\Debug\TrocaImpressora.exe.config
+C:\Users\reamaral\source\repos\TrocaImpressora\TrocaImpressora\bin\Debug\TrocaImpressora.exe
+C:\Users\reamaral\source\repos\TrocaImpressora\TrocaImpressora\bin\Debug\TrocaImpressora.pdb
+C:\Users\reamaral\source\repos\TrocaImpressora\TrocaImpressora\obj\Debug\TrocaImpressora.csproj.AssemblyReference.cache
+C:\Users\reamaral\source\repos\TrocaImpressora\TrocaImpressora\obj\Debug\TrocaImpressora.csproj.SuggestedBindingRedirects.cache
+C:\Users\reamaral\source\repos\TrocaImpressora\TrocaImpressora\obj\Debug\TrocaImpressora.Form1.resources
+C:\Users\reamaral\source\repos\TrocaImpressora\TrocaImpressora\obj\Debug\TrocaImpressora.Properties.Resources.resources
+C:\Users\reamaral\source\repos\TrocaImpressora\TrocaImpressora\obj\Debug\TrocaImpressora.csproj.GenerateResource.cache
+C:\Users\reamaral\source\repos\TrocaImpressora\TrocaImpressora\obj\Debug\TrocaImpressora.csproj.CoreCompileInputs.cache
+C:\Users\reamaral\source\repos\TrocaImpressora\TrocaImpressora\obj\Debug\TrocaImpressora.exe
+C:\Users\reamaral\source\repos\TrocaImpressora\TrocaImpressora\obj\Debug\TrocaImpressora.pdb
