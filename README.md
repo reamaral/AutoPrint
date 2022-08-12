@@ -32,13 +32,13 @@ PS: You've to install the service using the following command:
 
 C:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil.exe "<path>\autoprint.exe"
 
-If needed to, you can set the service as "auto"
+If needed to, you can set the service as "auto".
 
 
 # TrocaImpressora
 
-This translates to "Change Printer"
+This translates to "Change Printer";
 
-Windows Form Application, you just need a Windows PC with .Net Framework Updated for it to run
+Windows Form Application, you just need a Windows PC with .Net Framework Updated for it to run;
 
-It mostly just edits the .bat file with the new default printer (Since the Windows Default Printer HAS to be Microft's PDF Printer)
+It mostly just edits the .bat file with the new default printer (Since the Windows Default Printer HAS to be Microsoft's PDF Printer).
